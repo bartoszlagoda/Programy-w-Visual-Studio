@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  MyForm.obj : Opcja /DEBUG:FASTLINK nie jest obsługiwana, gdy jest obecny kod zarządzany; konsolidacja jest uruchamiana ponownie z opcją /DEBUG:FULL
+  Lottomat.vcxproj -> D:\programowanie - filmy\C++ Kubisztal\Łagoda\10\Lottomat\Debug\Lottomat.exe
+  Lottomat.vcxproj -> D:\programowanie - filmy\C++ Kubisztal\Łagoda\10\Lottomat\Debug\Lottomat.pdb (Partial PDB)

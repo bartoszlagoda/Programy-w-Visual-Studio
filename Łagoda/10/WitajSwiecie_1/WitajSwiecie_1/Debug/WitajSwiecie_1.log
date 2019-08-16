@@ -1,0 +1,6 @@
+﻿  Formatka.cpp
+Formatka.cpp(15): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Formatka.obj : Opcja /DEBUG:FASTLINK nie jest obsługiwana, gdy jest obecny kod zarządzany; konsolidacja jest uruchamiana ponownie z opcją /DEBUG:FULL
+  WitajSwiecie_1.vcxproj -> D:\programowanie - filmy\C++ Kubisztal\Łagoda\10\WitajSwiecie_1\Debug\WitajSwiecie_1.exe
+  WitajSwiecie_1.vcxproj -> D:\programowanie - filmy\C++ Kubisztal\Łagoda\10\WitajSwiecie_1\Debug\WitajSwiecie_1.pdb (Partial PDB)

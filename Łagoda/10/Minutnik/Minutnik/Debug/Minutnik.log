@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+MyForm.cpp(11): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  MyForm.obj : Opcja /DEBUG:FASTLINK nie jest obsługiwana, gdy jest obecny kod zarządzany; konsolidacja jest uruchamiana ponownie z opcją /DEBUG:FULL
+  Minutnik.vcxproj -> D:\programowanie - filmy\C++ Kubisztal\Łagoda\10\Minutnik\Debug\Minutnik.exe
+  Minutnik.vcxproj -> D:\programowanie - filmy\C++ Kubisztal\Łagoda\10\Minutnik\Debug\Minutnik.pdb (Partial PDB)

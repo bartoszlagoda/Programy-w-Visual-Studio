@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+MyForm.cpp(11): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  MyForm.obj : Opcja /DEBUG:FASTLINK nie jest obsługiwana, gdy jest obecny kod zarządzany; konsolidacja jest uruchamiana ponownie z opcją /DEBUG:FULL
+  Stoper.vcxproj -> D:\programowanie - filmy\C++ Kubisztal\Łagoda\10\Stoper\Debug\Stoper.exe
+  Stoper.vcxproj -> D:\programowanie - filmy\C++ Kubisztal\Łagoda\10\Stoper\Debug\Stoper.pdb (Partial PDB)
